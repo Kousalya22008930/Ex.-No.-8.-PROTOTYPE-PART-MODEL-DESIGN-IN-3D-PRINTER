@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: KOUSALYA A.
+### Register Number: 212222230068
+![image](https://github.com/Kousalya22008930/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119389108/cbaab926-cf09-448a-8271-dfddb93f8364)
+
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
